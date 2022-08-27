@@ -1,5 +1,7 @@
 # Access Control List (acl)
 Access Control List (acl) for "Project HRB" x86 (x86_64)
+
+Dependencies: [attr](https://github.com/Project-HRB-x86/attr)
 __________________________________
 
 Package home: http://savannah.nongnu.org/projects/acl
